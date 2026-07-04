@@ -1,0 +1,6 @@
+{
+  "name": "Limit Mode",
+  "description": "Distraction-free custom Material 1 styled launcher for productivity and kids/teens moderation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
